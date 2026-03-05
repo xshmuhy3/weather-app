@@ -14,13 +14,11 @@ This project was developed as a deep-dive into following concepts:
 ![Alt text](asset/app.png "App Screenshot")
 
 ---
+
 ⚙️ Setup & Installation
-Clone the repository:
+1.Clone the repository:
 
-Install dependencies (if applicable):
-
-Bash
-
+2.Install dependencies 
 npm install
 
-Open index.html in your browser.
+3.Launch index.html in your browser.
