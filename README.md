@@ -12,3 +12,15 @@ This project was developed as a deep-dive into following concepts:
 #### Screenshot
 
 ![Alt text](asset/app.png "App Screenshot")
+
+---
+⚙️ Setup & Installation
+Clone the repository:
+
+Install dependencies (if applicable):
+
+Bash
+
+npm install
+
+Open index.html in your browser.
