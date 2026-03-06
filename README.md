@@ -1,7 +1,7 @@
 # 🌦️ Weather App Utilizes Open Weather's API  
 
 ## 🧠 Learning Objectives
-This project was developed as a deep-dive into following concepts:
+This project was developed as a learning into following concepts:
 
 * **Asynchronous JavaScript:** Using of `async/await` patterns to manage non-blocking network requests.
 * **Axios Integration:** Implementing a promise-based HTTP client to handle API communication, error catching, and data transformation.
