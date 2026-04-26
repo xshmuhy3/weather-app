@@ -1,4 +1,4 @@
-# 🌦️ Weather App Utilizes Open Weather's API  
+# 🌦️ Weather App Utilizes Openweather's API  
 
 ##  Learning Objectives
 This project was developed as a learning into following concepts:
