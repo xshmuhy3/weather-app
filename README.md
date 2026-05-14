@@ -1,7 +1,8 @@
-# 🌦️ Weather App Utilizes Openweather's API  
+# 🌦️ Geospatial Weather App Utilizes Openweather's API  
 
-##  Learning Objectives
-This project was developed as a learning into following concepts:
+##  Objectives Spatial Data Integration
+GIS Lite/ GIS Component that  Store, Query, and Analyze spatial data in real-time meteorological data based on user-defined coordinates.
+In following this concepts:
 
 * **Asynchronous JavaScript:** Using of `async/await` patterns to manage non-blocking network requests.
 * **Axios Integration:** Implementing a promise-based HTTP client to handle API communication, error catching, and data transformation.
