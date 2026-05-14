@@ -1,7 +1,7 @@
-# 🌦️ Geospatial Weather App Utilizes Openweather's API  
+# Geospatial 🌦️Weather App Utilizes Openweather's API  
 
 ##  Objectives Spatial Data Integration
-GIS Lite/ GIS Component that  Store, Query, and Analyze spatial data in real-time meteorological data based on user-defined coordinates.
+GIS Lite/ GIS Component that  Store, Query, and Analyze spatial data in real-time meteorological Location-based data (latitude and longitude) to deliver information coordinates
 In following this concepts:
 
 * **Asynchronous JavaScript:** Using of `async/await` patterns to manage non-blocking network requests.
